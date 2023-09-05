@@ -1,0 +1,28 @@
+BODY{
+    font-style:italic;
+    background: color #f99393;;
+  }
+  h1{
+    background-color: aqua;
+    color:rebeccapurple;
+    text-align: center;
+  }
+  h2{
+    background-color: wheat;
+      color:rgb(138, 16, 87);
+      text-align: end;
+  }
+  HR{
+   
+  }
+  .cin{
+    position:relative;
+    height: 10px;
+    width: 10px;
+  }
+
+  .cout{
+    margin-top: 700px;
+    text-align: left;
+  }
+  
